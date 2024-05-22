@@ -1,29 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T09:03:32.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7udxaOYzhnST2pktTUoh" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T09:15:24.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="wNL3UxPDEwsKWSce6lYu" version="24.4.4" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1678" dy="-176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="-315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7a84cebc1def654-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" parent="1" vertex="1">
-          <mxGeometry x="220" y="2010" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7a84cebc1def654-2" value="Task" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1995" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7a84cebc1def654-4" value="" style="shape=message;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1920" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7a84cebc1def654-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="7a84cebc1def654-1" target="7a84cebc1def654-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7a84cebc1def654-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;endArrow=none;endFill=0;" parent="1" source="7a84cebc1def654-4" target="7a84cebc1def654-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7a84cebc1def654-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="7a84cebc1def654-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="2035" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rfxDV2EknZkREh7y6ZBy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1272" width="1200" height="260" as="geometry" />
         </mxCell>
@@ -59,6 +39,30 @@
         </mxCell>
         <mxCell id="rfxDV2EknZkREh7y6ZBy-12" value="ÄM in Z_SHOW_FORM freigeben" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="189" y="1369.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rfxDV2EknZkREh7y6ZBy-14" target="rfxDV2EknZkREh7y6ZBy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-14" value="Verarbeitung der XML-Datei innerhalb NRWave" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1589" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-16" value="ÄM in NRWave" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="224" y="1697" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-17" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1700.5" width="44" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rfxDV2EknZkREh7y6ZBy-12" target="rfxDV2EknZkREh7y6ZBy-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249" y="1435" as="sourcePoint" />
+            <mxPoint x="249" y="1570.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-23" value="Übermittlung LBV-Personalnummer" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1649.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="rfxDV2EknZkREh7y6ZBy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rfxDV2EknZkREh7y6ZBy-16" target="rfxDV2EknZkREh7y6ZBy-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
