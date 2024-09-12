@@ -1,134 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2024-09-12T09:16:08.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="ce99nGPK1wcoDUqhX8V2" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1678" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-1" target="Mal8dIEOFkEgRGjR7OBq-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" vertex="1" parent="1">
-          <mxGeometry x="100" y="110" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-2" target="Mal8dIEOFkEgRGjR7OBq-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-2" value="ÄM an das LBV übermittelt" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="95" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="220" as="targetPoint" />
-            <mxPoint x="360" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-10" value="Übermittlung&lt;div&gt;fehlerhaft&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mal8dIEOFkEgRGjR7OBq-9">
-          <mxGeometry x="-0.1075" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="375" y="430" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-7" target="Mal8dIEOFkEgRGjR7OBq-35">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-2" target="_LiHStafnN8IZv7Xd8In-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-7" value="ÄM und Anlagen in ePA im Ordner &quot;LBV-Kommunikation&quot; ablegen" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="95" width="175" height="80" as="geometry" />
+        <mxCell id="_LiHStafnN8IZv7Xd8In-2" value="ÄM an das LBV übermittelt" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-17" target="Mal8dIEOFkEgRGjR7OBq-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_LiHStafnN8IZv7Xd8In-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="375" y="610" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-17" value="Verlinkung der ÄM aus der ePA in der Z_SHOW_FORM" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="825" y="95" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-19" value="ÄM bleibt im System gespeichert" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="220" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-24" target="Mal8dIEOFkEgRGjR7OBq-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-24" value="Status der Ablage in der Z_SHOW_FORM anzeigen" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="140" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="335" y="110" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Mal8dIEOFkEgRGjR7OBq-31">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="_LiHStafnN8IZv7Xd8In-4">
           <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-33" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="Mal8dIEOFkEgRGjR7OBq-31">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-6" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="_LiHStafnN8IZv7Xd8In-4">
           <mxGeometry x="15.625" y="15.625" width="18.75" height="18.75" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="700" y="110" width="50" height="50" as="geometry" />
+        <mxCell id="_LiHStafnN8IZv7Xd8In-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-8" target="_LiHStafnN8IZv7Xd8In-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-35" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Mal8dIEOFkEgRGjR7OBq-34">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-8" value="ÄM und Anlagen in ePA im Ordner &quot;LBV-Kommunikation&quot; ablegen" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="690" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_LiHStafnN8IZv7Xd8In-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-10" value="Übermittlung erfolgreich" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_LiHStafnN8IZv7Xd8In-9">
+          <mxGeometry x="-0.1542" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-11" value="ÄM bleibt im System gespeichert" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="545" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-5" target="_LiHStafnN8IZv7Xd8In-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-13" value="Übermittlung&lt;div&gt;fehlerhaft&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_LiHStafnN8IZv7Xd8In-12">
+          <mxGeometry x="-0.5149" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="375" y="790" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="_LiHStafnN8IZv7Xd8In-14">
           <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-36" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="Mal8dIEOFkEgRGjR7OBq-34">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-16" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="_LiHStafnN8IZv7Xd8In-14">
           <mxGeometry x="15.625" y="15.625" width="18.75" height="18.75" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-38" target="Mal8dIEOFkEgRGjR7OBq-73">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-15" target="_LiHStafnN8IZv7Xd8In-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-38" value="Löschung der ÄM aus dem System" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="50" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-32" target="Mal8dIEOFkEgRGjR7OBq-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-42" value="Übermittlung&lt;div&gt;erfolgreich&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mal8dIEOFkEgRGjR7OBq-41">
-          <mxGeometry x="-0.075" relative="1" as="geometry">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-19" value="Ablage&lt;div&gt;fehlerhaft&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_LiHStafnN8IZv7Xd8In-18">
+          <mxGeometry x="-0.2978" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-35" target="Mal8dIEOFkEgRGjR7OBq-17">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-20" target="_LiHStafnN8IZv7Xd8In-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-48" value="Ablage&lt;div&gt;erfolgreich&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mal8dIEOFkEgRGjR7OBq-46">
-          <mxGeometry x="-0.0933" y="1" relative="1" as="geometry">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-20" value="Verlinkung der ÄM aus der ePA in der Z_SHOW_FORM" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="880" width="177.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-15" target="_LiHStafnN8IZv7Xd8In-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-22" value="Ablage erfolgreich" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_LiHStafnN8IZv7Xd8In-21">
+          <mxGeometry x="-0.202" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-51" target="Mal8dIEOFkEgRGjR7OBq-38">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-23" target="_LiHStafnN8IZv7Xd8In-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1005" y="90" />
+              <mxPoint x="305" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-51" target="Mal8dIEOFkEgRGjR7OBq-24">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-23" target="_LiHStafnN8IZv7Xd8In-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1005" y="180" />
+              <mxPoint x="495" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-51" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" vertex="1" parent="1">
-          <mxGeometry x="980" y="110" width="50" height="50" as="geometry" />
+        <mxCell id="_LiHStafnN8IZv7Xd8In-23" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" vertex="1" parent="1">
+          <mxGeometry x="375" y="970" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-57" value="Nach X Tagen" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;labelBackgroundColor=#ffffff;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="40" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Mal8dIEOFkEgRGjR7OBq-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="160" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="725" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-62" value="Ablage&lt;div&gt;fehlerhaft&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mal8dIEOFkEgRGjR7OBq-61">
-          <mxGeometry x="-0.8617" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-73" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="110" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-74" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=general;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="110" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Mal8dIEOFkEgRGjR7OBq-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="Mal8dIEOFkEgRGjR7OBq-73" target="Mal8dIEOFkEgRGjR7OBq-74">
+        <mxCell id="_LiHStafnN8IZv7Xd8In-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-27" target="_LiHStafnN8IZv7Xd8In-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-27" value="Status der Ablage in der Z_SHOW_FORM anzeigen" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1030" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-29" target="_LiHStafnN8IZv7Xd8In-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-29" value="Löschung der ÄM aus dem System" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1030" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-30" value="Nach X Tagen" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;labelBackgroundColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1070" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-32" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LiHStafnN8IZv7Xd8In-34" target="_LiHStafnN8IZv7Xd8In-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LiHStafnN8IZv7Xd8In-34" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1120" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
